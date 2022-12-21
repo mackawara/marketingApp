@@ -1,0 +1,23 @@
+{
+  "name": "marketingapp",
+  "version": "1.0.0",
+  "description": "Personal app for advertising",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackawara/marketingApp.git"
+  },
+  "author": "mackawara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mackawara/marketingApp/issues"
+  },
+  "homepage": "https://github.com/mackawara/marketingApp#readme",
+  "dependencies": {
+    "read-excel-file": "^5.5.3",
+    "xlsx": "^0.18.5"
+  }
+}
